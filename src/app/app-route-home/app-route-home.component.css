@@ -6,6 +6,7 @@
 
 .banner img {
   transform: rotate(-10deg);
+  clip-path: polygon(60% 0, 60% 35%, 100% 35%, 100% 100%, 35% 100%, 35% 65%, 0 65%, 0 0);
 }
 
 .showcases {
