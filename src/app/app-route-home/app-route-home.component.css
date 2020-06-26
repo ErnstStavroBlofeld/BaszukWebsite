@@ -4,6 +4,10 @@
   padding: 0 1em;
 }
 
+.banner img {
+  transform: rotate(-10deg);
+}
+
 .showcases {
   max-width: 900px;
   margin: 0 auto;
