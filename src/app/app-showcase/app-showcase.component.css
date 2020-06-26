@@ -1,0 +1,29 @@
+:host {
+  margin: 5em 0;
+  display: flex;
+  align-items: center;
+}
+
+:host(.reversed) {
+  flex-direction: row-reverse;
+}
+
+.text,
+.image {
+  flex: 1;
+  text-align: center;
+  font-size: 1.2em;
+  padding: .5em;
+}
+
+.text h1 {
+  margin: 0;
+  font-weight: normal;
+  font-size: 1.5em;
+}
+
+.text p {
+  padding: 0 10%;
+  color: var(--text30);
+}
+

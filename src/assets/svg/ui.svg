@@ -1,0 +1,41 @@
+<svg width="539" height="259" viewBox="0 0 539 259" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .controls {
+      fill: #C4C4C4;
+    }
+
+    .window {
+      fill: #424242;
+    }
+
+    .base {
+      fill: #212121;
+    }
+
+    .inner {
+      fill: #5C5C5C;
+    }
+
+    .box {
+      fill: #353535;
+    }
+  </style>
+
+  <rect class="base" width="538.824" height="259" rx="18"/>
+
+  <circle class="controls" cx="24.078" cy="24.0778" r="9.76131"/>
+  <circle class="controls" cx="76.1383" cy="24.0778" r="9.76131"/>
+  <circle class="controls" cx="50.108" cy="24.0778" r="9.76131"/>
+
+  <rect class="window" x="140.563" y="50.7588" width="257.698" height="74.1859" rx="7"/>
+
+  <circle class="controls" cx="388.5" cy="57.9171" r="3.25377"/>
+  <circle class="controls" cx="365.073" cy="57.9171" r="3.25377"/>
+  <circle class="controls" cx="376.786" cy="57.9171" r="3.25377"/>
+
+  <rect class="inner" x="144.467" y="65.0754" width="249.889" height="55.9648" rx="5"/>
+
+  <rect class="box" x="85.8994" y="152.276" width="81.995" height="81.995" rx="7"/>
+  <rect class="box" x="369.628" y="152.276" width="81.995" height="81.995" rx="7"/>
+  <rect class="box" x="227.764" y="152.276" width="81.995" height="81.995" rx="7"/>
+</svg>
