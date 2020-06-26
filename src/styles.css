@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+:root {
+  --font-text: 'Roboto', sans-serif;
+  --background10: #0E0E0E;
+  --background20: #181818;
+  --background30: #292929;
+  --text10: #fff;
+  --text20: #c8c8c8;
+  --text30: #838383;
+}
+
 html, body {
   position: relative;
   width: 100%;
@@ -7,8 +19,13 @@ html, body {
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+
+  font-family: var(--font-text);
   font-smooth: subpixel-antialiased;
+  font-size: 16px;
+
+  color: var(--text10);
+  background-color: var(--background10);
 }
 
 img {
