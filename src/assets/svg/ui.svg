@@ -9,7 +9,7 @@
     }
 
     .base {
-      fill: #212121;
+      fill: #151515;
     }
 
     .inner {

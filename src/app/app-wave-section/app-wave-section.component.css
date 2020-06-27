@@ -1,0 +1,17 @@
+div,
+svg {
+  overflow: hidden;
+  position: relative;
+}
+
+div {
+  z-index: 3;
+}
+
+svg {
+  z-index: 2;
+}
+
+svg:first-child {
+  transform: translateY(10%);
+}

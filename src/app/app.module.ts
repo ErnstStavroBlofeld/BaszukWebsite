@@ -11,6 +11,7 @@ import { AppRouteProjectsComponent } from './app-route-projects/app-route-projec
 import { AppRouteContactComponent } from './app-route-contact/app-route-contact.component';
 import { AppFooterComponent } from './app-footer/app-footer.component';
 import { AppShowcaseComponent } from './app-showcase/app-showcase.component';
+import { AppWaveSectionComponent } from './app-wave-section/app-wave-section.component';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import { AppShowcaseComponent } from './app-showcase/app-showcase.component';
     AppRouteContactComponent,
     AppFooterComponent,
     AppShowcaseComponent,
+    AppWaveSectionComponent,
   ],
   imports: [
     BrowserModule,
