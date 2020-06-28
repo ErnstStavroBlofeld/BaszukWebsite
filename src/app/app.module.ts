@@ -9,7 +9,6 @@ import { AppLinkComponent } from './app-link/app-link.component';
 import { AppRouteHomeComponent } from './app-route-home/app-route-home.component';
 import { AppRouteProjectsComponent } from './app-route-projects/app-route-projects.component';
 import { AppRouteContactComponent } from './app-route-contact/app-route-contact.component';
-import { AppFooterComponent } from './app-footer/app-footer.component';
 import { AppShowcaseComponent } from './app-showcase/app-showcase.component';
 import { AppWaveSectionComponent } from './app-wave-section/app-wave-section.component';
 
@@ -21,7 +20,6 @@ import { AppWaveSectionComponent } from './app-wave-section/app-wave-section.com
     AppRouteHomeComponent,
     AppRouteProjectsComponent,
     AppRouteContactComponent,
-    AppFooterComponent,
     AppShowcaseComponent,
     AppWaveSectionComponent,
   ],
