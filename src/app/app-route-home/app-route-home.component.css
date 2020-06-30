@@ -15,3 +15,21 @@
   margin: 0 auto;
   padding: 1em;
 }
+
+@media (max-width: 900px) {
+  :host {
+    background-image: url('../../assets/background-tile.png');
+    background-size: 100%;
+    display: block;
+  }
+
+  .banner {
+    display: none;
+  }
+
+  app-showcase {
+    max-width: 75%;
+    margin: 3em auto;
+    display: block;
+  }
+}

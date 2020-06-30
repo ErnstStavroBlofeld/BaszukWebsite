@@ -17,3 +17,15 @@ header nav {
   font-size: .7em;
   line-height: 1.75em;
 }
+
+@media (max-width: 500px) {
+  header {
+    display: block;
+    text-align: center;
+  }
+
+  header nav {
+    text-align: center;
+    padding-top: 1em;
+  }
+}
